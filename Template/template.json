@@ -3945,14 +3945,14 @@
     "title": "Seafile",
     "name": "seafile",
     "description": "Seafile is an open-source, cross-platform file-hosting software system. Files are stored on a central server and can be synchronized with personal computers and mobile devices through apps. Files on the Seafile server can also be accessed directly via the server's web interface.",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/seafile.png",
+    "logo": "https://raw.githubusercontent.com/jake-walker/selfhosted_templates/seafile/Images/seafile.png",
     "categories": [
       "Cloud",
       "Other"
     ],
     "platform": "linux",
     "repository": {
-      "url": "https://github.com/SelfhostedPro/selfhosted_templates",
+      "url": "https://github.com/jake-walker/selfhosted_templates",
       "stackfile": "Template/Stack/seafile.yml"
     },
     "env": [
