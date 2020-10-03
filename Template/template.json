@@ -3957,33 +3957,33 @@
     },
     "env": [
       {
-        "name": "Time Zone",
-        "label": "TIME_ZONE",
+        "name": "TIME_ZONE",
+        "label": "Time Zone",
         "default": "Etc/UTC"
       },
       {
-        "name": "Database Password",
-        "label": "MYSQL_ROOT_PASSWORD",
+        "name": "MYSQL_ROOT_PASSWORD",
+        "label": "Database Password",
         "default": "password"
       },
       {
-        "name": "Administrator Email",
-        "label": "ADMIN_EMAIL",
+        "name": "ADMIN_EMAIL",
+        "label": "Administrator Email",
         "default": "me@example.com"
       },
       {
-        "name": "Administrator Password",
-        "label": "ADMIN_PASSWORD",
+        "name": "ADMIN_PASSWORD",
+        "label": "Administrator Password",
         "default": "asecret"
       },
       {
-        "name": "Domain Name",
-        "label": "SERVER_HOSTNAME",
+        "name": "SERVER_HOSTNAME",
+        "label": "Domain Name",
         "default": "docs.seafile.com"
       },
       {
-        "name": "Enable HTTPS?",
-        "label": "ENABLE_HTTPS",
+        "name": "ENABLE_HTTPS",
+        "label": "Enable HTTPS?",
         "select": [
           {
             "text": "Yes",
